@@ -5,6 +5,9 @@
 - Ericsson IoT Accelerator
 - Raspberry Pi + Python
 
+### Award
+:trophy: Best Award
+
 ### Team
 :seedling: Guardians of Agriculture
 
